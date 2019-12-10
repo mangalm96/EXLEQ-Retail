@@ -19,5 +19,5 @@ Our solution covers three main aspects-
 
 1. Shopper Ping Density Analysis to plot shopper's pings on the mall layout and identify the different density zones. 
 2. We envision a layout where stores belonging to the same category are clubbed together and placed within a designated region.
-3. Anlaysis of category specific visiting pattern for different time scales to identify time periods in which popularity of different categories of shops is at its highest. We then recommend various solutions to leverage these findings.
+3. Analysis of category specific visiting pattern for different time scales to identify time periods in which popularity of different categories of shops is at its highest. We then recommend various solutions to leverage these findings.
 4. PAM Clustering Analysis for segmenting customers into buckets based on their demographic information to achieve personalized targeting of cutomers.
